@@ -1,0 +1,7 @@
+For function simulation, I used linear models with different depths and number of neurons.
+
+For MNIST, I used CNN with a linear prediction layer.
+
+In the same number of parameters but differnt architecture experiemnts, an interesting result is that number of parameters may be same, but the model that is deeper performs better. 
+I think there are several reasons for this. A deeper model means more linearities (more Tanhs). Therefore, models learns the function with more flexibility available.
+One more reason could be that each layer actually learns something about the function. For example, first layer maybe learns negative inputs, second layer learns positive inputs and so on. A single layer does not have this flexibility.
