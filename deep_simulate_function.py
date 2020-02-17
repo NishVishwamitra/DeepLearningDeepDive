@@ -94,7 +94,7 @@ def test(model):
 
   return sum(avg_loss) / len(avg_loss), (correct / total) * 100
     
-epochs = 50
+epochs = 15
 
 for epoch in range(epochs):
   train_loss = train(model)
