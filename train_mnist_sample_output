@@ -1,0 +1,10 @@
+Epoch: 1 , train loss: 1.5958747881174087 , test loss: 1.524899666261673 , accuracy: 93.72
+Epoch: 2 , train loss: 1.5148034058173498 , test loss: 1.5064452799081802 , accuracy: 95.45
+Epoch: 3 , train loss: 1.5018597081740697 , test loss: 1.4958217798829079 , accuracy: 96.43
+Epoch: 4 , train loss: 1.4937104478995005 , test loss: 1.4934512171387673 , accuracy: 96.85000000000001
+Epoch: 5 , train loss: 1.4887075444221496 , test loss: 1.4882490470528602 , accuracy: 97.39999999999999
+Epoch: 6 , train loss: 1.4850098145246506 , test loss: 1.4857236193656922 , accuracy: 97.67
+Epoch: 7 , train loss: 1.4824205461819966 , test loss: 1.484802739715576 , accuracy: 97.89999999999999
+Epoch: 8 , train loss: 1.480502901919683 , test loss: 1.4822582928657533 , accuracy: 97.92999999999999
+Epoch: 9 , train loss: 1.4791586334466935 , test loss: 1.48092119910717 , accuracy: 98.11999999999999
+Epoch: 10 , train loss: 1.477677307399114 , test loss: 1.4811333331823349 , accuracy: 98.22
