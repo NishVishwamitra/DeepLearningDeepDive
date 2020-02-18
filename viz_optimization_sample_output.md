@@ -78,5 +78,3 @@ Epoch: 77 , train loss: 1.4695795288403828 , test loss: 1.4853132554650306 , acc
 Epoch: 78 , train loss: 1.4694929010152817 , test loss: 1.4851391483068466 , accuracy: 97.65
 Epoch: 79 , train loss: 1.469370468012492 , test loss: 1.485066768682003 , accuracy: 97.68
 Epoch: 80 , train loss: 1.4692754329601925 , test loss: 1.4852734227061273 , accuracy: 97.64
-
-![Alt text](../weights_plot.png?raw=true "Title")
