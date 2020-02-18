@@ -52,7 +52,7 @@ class MNISTDNN(nn.Module):
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 criterion = nn.CrossEntropyLoss()
 model = MNISTDNN().to(device)
-optimizer = torch.optim.Adam(model.parameters(), lr = 0.00001)
+optimizer = torch.optim.Adam(model.parameters(), lr = 0.0001)
 
 # train
 def train(model):
@@ -101,8 +101,11 @@ for epoch in range(epochs):
   print('Epoch:', epoch + 1, ', train loss:', train_loss, ', test loss:', test_loss, ', accuracy:', acc)
   grad_all = 0.
   for p in model.parameters():
-    grad = (p.grad.cpu().data.numpy() ** 2).sum()
-  grad_all = grad_all ** 0.5
+    grad = 0.
+    if p.grad is not None:
+      grad = (p.grad.cpu().data.numpy() ** 2).sum()
+    grad_all += grad ** 0.5
+  print('grad norm:', grad_all)
   grad_norm_and_loss.append([epoch, grad_all, test_loss])
 
 grad_norm_and_loss = np.array(grad_norm_and_loss)
