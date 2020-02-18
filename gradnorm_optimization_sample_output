@@ -1,0 +1,23 @@
+Epoch: 1 , train loss: 1.7992577023267746 , test loss: 1.6215754922389984 , accuracy: 86.32
+Epoch: 2 , train loss: 1.5998462331851324 , test loss: 1.5768579443573951 , accuracy: 86.41
+Epoch: 3 , train loss: 1.5711340083916983 , test loss: 1.5590310040712356 , accuracy: 87.33
+Epoch: 4 , train loss: 1.5566828407843907 , test loss: 1.549168138694763 , accuracy: 89.91
+Epoch: 5 , train loss: 1.5462582554737727 , test loss: 1.5393957680225372 , accuracy: 91.88
+Epoch: 6 , train loss: 1.5353150616407394 , test loss: 1.5301442925333977 , accuracy: 92.84
+Epoch: 7 , train loss: 1.5273342122793199 , test loss: 1.5239771782517433 , accuracy: 93.32000000000001
+Epoch: 8 , train loss: 1.5215640408039093 , test loss: 1.5193207656383514 , accuracy: 93.72
+Epoch: 9 , train loss: 1.5170179731527964 , test loss: 1.5158442588090897 , accuracy: 93.97
+Epoch: 10 , train loss: 1.513236798675855 , test loss: 1.5125840730309486 , accuracy: 94.34
+Epoch: 11 , train loss: 1.510151135635376 , test loss: 1.5098798130631448 , accuracy: 94.69
+Epoch: 12 , train loss: 1.5074140529235205 , test loss: 1.5073862242937088 , accuracy: 94.8
+Epoch: 13 , train loss: 1.5049680445432663 , test loss: 1.5055968584775925 , accuracy: 94.89999999999999
+Epoch: 14 , train loss: 1.5027576461474101 , test loss: 1.5038684444308281 , accuracy: 95.06
+Epoch: 15 , train loss: 1.5007973325888315 , test loss: 1.5020798767924308 , accuracy: 95.38
+Epoch: 16 , train loss: 1.498932883477211 , test loss: 1.5009016414284706 , accuracy: 95.61
+Epoch: 17 , train loss: 1.4972617970863977 , test loss: 1.4992607668161393 , accuracy: 95.7
+Epoch: 18 , train loss: 1.4956156833410263 , test loss: 1.4984828017115592 , accuracy: 95.77
+Epoch: 19 , train loss: 1.494081590048472 , test loss: 1.4973565141439438 , accuracy: 95.95
+Epoch: 20 , train loss: 1.4926804995298386 , test loss: 1.4962092933416367 , accuracy: 96.1
+
+An observation is that grad norm also behaves (grad_norm_and_loss_vs_iteration.png) similar to the weights 
+magnitude (they show similar trend).
