@@ -1,23 +1,45 @@
-Epoch: 1 , train loss: 1.7992577023267746 , test loss: 1.6215754922389984 , accuracy: 86.32
-Epoch: 2 , train loss: 1.5998462331851324 , test loss: 1.5768579443573951 , accuracy: 86.41
-Epoch: 3 , train loss: 1.5711340083916983 , test loss: 1.5590310040712356 , accuracy: 87.33
-Epoch: 4 , train loss: 1.5566828407843907 , test loss: 1.549168138694763 , accuracy: 89.91
-Epoch: 5 , train loss: 1.5462582554737727 , test loss: 1.5393957680225372 , accuracy: 91.88
-Epoch: 6 , train loss: 1.5353150616407394 , test loss: 1.5301442925333977 , accuracy: 92.84
-Epoch: 7 , train loss: 1.5273342122793199 , test loss: 1.5239771782517433 , accuracy: 93.32000000000001
-Epoch: 8 , train loss: 1.5215640408039093 , test loss: 1.5193207656383514 , accuracy: 93.72
-Epoch: 9 , train loss: 1.5170179731527964 , test loss: 1.5158442588090897 , accuracy: 93.97
-Epoch: 10 , train loss: 1.513236798675855 , test loss: 1.5125840730309486 , accuracy: 94.34
-Epoch: 11 , train loss: 1.510151135635376 , test loss: 1.5098798130631448 , accuracy: 94.69
-Epoch: 12 , train loss: 1.5074140529235205 , test loss: 1.5073862242937088 , accuracy: 94.8
-Epoch: 13 , train loss: 1.5049680445432663 , test loss: 1.5055968584775925 , accuracy: 94.89999999999999
-Epoch: 14 , train loss: 1.5027576461474101 , test loss: 1.5038684444308281 , accuracy: 95.06
-Epoch: 15 , train loss: 1.5007973325888315 , test loss: 1.5020798767924308 , accuracy: 95.38
-Epoch: 16 , train loss: 1.498932883477211 , test loss: 1.5009016414284706 , accuracy: 95.61
-Epoch: 17 , train loss: 1.4972617970863977 , test loss: 1.4992607668161393 , accuracy: 95.7
-Epoch: 18 , train loss: 1.4956156833410263 , test loss: 1.4984828017115592 , accuracy: 95.77
-Epoch: 19 , train loss: 1.494081590048472 , test loss: 1.4973565141439438 , accuracy: 95.95
-Epoch: 20 , train loss: 1.4926804995298386 , test loss: 1.4962092933416367 , accuracy: 96.1
+Epoch: 1 , train loss: 1.5769000503063202 , test loss: 1.5184597718477248 , accuracy: 93.75
+grad norm: 4.968776509444522
+Epoch: 2 , train loss: 1.5073377125183742 , test loss: 1.4981527495741844 , accuracy: 95.63000000000001
+grad norm: 0.46900938826071276
+Epoch: 3 , train loss: 1.4936937231938043 , test loss: 1.4920193220496178 , accuracy: 96.44
+grad norm: 0.0009120013379011162
+Epoch: 4 , train loss: 1.4863793113708497 , test loss: 1.4889899254322052 , accuracy: 96.81
+grad norm: 0.01645018647735744
+Epoch: 5 , train loss: 1.482141891646385 , test loss: 1.4855596280097962 , accuracy: 96.94
+grad norm: 0.003708554985183161
+Epoch: 6 , train loss: 1.479127012483279 , test loss: 1.4861550081133843 , accuracy: 97.08
+grad norm: 0.000632237753912301
+Epoch: 7 , train loss: 1.4772786123514174 , test loss: 1.4830948174476624 , accuracy: 97.32
+grad norm: 0.1258488921989327
+Epoch: 8 , train loss: 1.4755473128795624 , test loss: 1.4808246703743935 , accuracy: 97.54
+grad norm: 0.0026767643826923248
+Epoch: 9 , train loss: 1.4742180676778158 , test loss: 1.4814437304139136 , accuracy: 97.50999999999999
+grad norm: 0.15904048222860548
+Epoch: 10 , train loss: 1.4731342767477036 , test loss: 1.48148687646389 , accuracy: 97.65
+grad norm: 8.869517566341935e-05
+Epoch: 11 , train loss: 1.4723972105582555 , test loss: 1.4836342264890672 , accuracy: 97.11999999999999
+grad norm: 0.26231126831980267
+Epoch: 12 , train loss: 1.4713046386400859 , test loss: 1.4806392109394073 , accuracy: 97.76
+grad norm: 1.0229414181643209e-06
+Epoch: 13 , train loss: 1.470498343205452 , test loss: 1.4807883846282959 , accuracy: 97.5
+grad norm: 2.0513458420426348e-06
+Epoch: 14 , train loss: 1.4701292109330495 , test loss: 1.4798484773039817 , accuracy: 97.6
+grad norm: 4.166625812431836
+Epoch: 15 , train loss: 1.4697522691806157 , test loss: 1.4824225917696954 , accuracy: 97.58
+grad norm: 0.000651768375906973
+Epoch: 16 , train loss: 1.4695147083997726 , test loss: 1.4801022168278695 , accuracy: 97.72999999999999
+grad norm: 1.1228740044938466e-07
+Epoch: 17 , train loss: 1.4689756654580435 , test loss: 1.4804468592643738 , accuracy: 97.68
+grad norm: 2.5950713937137314e-11
+Epoch: 18 , train loss: 1.468799507157008 , test loss: 1.4838208123207093 , accuracy: 97.5
+grad norm: 4.2258300581503217e-10
+Epoch: 19 , train loss: 1.4685487791935603 , test loss: 1.4804534902334214 , accuracy: 97.91
+grad norm: 3.201377528823876e-19
+Epoch: 20 , train loss: 1.4681499168078105 , test loss: 1.4808805957078934 , accuracy: 97.68
+grad norm: 4.489509910966328e-10
+
 
 An observation is that grad norm also behaves (grad_norm_and_loss_vs_iteration.png) similar to the weights 
-magnitude (they show similar trend).
+magnitude (they show similar trend). When gradnorm decreases I, observed that the loss also decreases, when it rises 
+loss also rises.
