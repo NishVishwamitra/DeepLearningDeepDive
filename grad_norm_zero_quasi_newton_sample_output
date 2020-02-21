@@ -1,0 +1,105 @@
+(33,)
+Epoch: 1 , train loss: 0.06785274950714665 , test loss: 0.053688566787798916 , accuracy: 55.00000000000001
+(30,)
+Epoch: 2 , train loss: 0.03904636536084581 , test loss: 0.021586024156672615 , accuracy: 53.75
+(33,)
+Epoch: 3 , train loss: 0.014643257369170897 , test loss: 0.009303966702607375 , accuracy: 66.25
+(30,)
+Epoch: 4 , train loss: 0.00739612460067292 , test loss: 0.006132964557472915 , accuracy: 66.25
+(30,)
+Epoch: 5 , train loss: 0.005219793033757014 , test loss: 0.0049418963460640345 , accuracy: 69.0
+(33,)
+Epoch: 6 , train loss: 0.004424846375695779 , test loss: 0.0039840540996484465 , accuracy: 65.5
+(31,)
+Epoch: 7 , train loss: 0.004051090414650389 , test loss: 0.0033854004171355 , accuracy: 70.25
+(31,)
+Epoch: 8 , train loss: 0.003777997701561162 , test loss: 0.0030213025372030342 , accuracy: 68.0
+(32,)
+Epoch: 9 , train loss: 0.0034530363882367965 , test loss: 0.0026549083518548344 , accuracy: 71.75
+(31,)
+Epoch: 10 , train loss: 0.002963169239628769 , test loss: 0.0021976273819892035 , accuracy: 80.0
+(32,)
+Epoch: 11 , train loss: 0.0025093051119074515 , test loss: 0.0019605735210135823 , accuracy: 79.75
+(30,)
+Epoch: 12 , train loss: 0.0022423632432219164 , test loss: 0.004326558847697619 , accuracy: 54.25
+(32,)
+Epoch: 13 , train loss: 0.0019483599030536425 , test loss: 0.0013189785122536529 , accuracy: 80.75
+(30,)
+Epoch: 14 , train loss: 0.0014537887831602347 , test loss: 0.0014961722509934728 , accuracy: 77.75
+(31,)
+Epoch: 15 , train loss: 0.0014505939958598902 , test loss: 0.0010478190766734041 , accuracy: 88.0
+(29,)
+Epoch: 16 , train loss: 0.0010329904694890502 , test loss: 0.0007919237356723574 , accuracy: 88.75
+(29,)
+Epoch: 17 , train loss: 0.0009679658825098159 , test loss: 0.0007441800765749841 , accuracy: 85.25
+(31,)
+Epoch: 18 , train loss: 0.0009189028185392089 , test loss: 0.0006280408942617971 , accuracy: 86.25
+(31,)
+Epoch: 19 , train loss: 0.0007987535838037729 , test loss: 0.0006781463474336971 , accuracy: 86.5
+(31,)
+Epoch: 20 , train loss: 0.0005879667586896175 , test loss: 0.0005632417428669068 , accuracy: 90.75
+(31,)
+Epoch: 21 , train loss: 0.000503260032705839 , test loss: 0.0006047725515580016 , accuracy: 91.25
+(33,)
+Epoch: 22 , train loss: 0.00042842768587092906 , test loss: 0.0003170381078347262 , accuracy: 87.5
+(33,)
+Epoch: 23 , train loss: 0.0003367740352337023 , test loss: 0.0002304685683621255 , accuracy: 92.25
+(33,)
+Epoch: 24 , train loss: 0.00029219554901487754 , test loss: 0.0001725833535003235 , accuracy: 93.25
+(35,)
+Epoch: 25 , train loss: 0.00022216334472659581 , test loss: 0.0003063095427995277 , accuracy: 92.75
+(34,)
+Epoch: 26 , train loss: 0.0001924629782634213 , test loss: 0.00019291954254555322 , accuracy: 87.75
+(34,)
+Epoch: 27 , train loss: 0.00014382968657287166 , test loss: 8.968698358911571e-05 , accuracy: 95.75
+(34,)
+Epoch: 28 , train loss: 0.00012613505283468385 , test loss: 4.2434622822801193e-05 , accuracy: 96.0
+(32,)
+Epoch: 29 , train loss: 7.254542141836851e-05 , test loss: 0.00033305309409371376 , accuracy: 88.25
+(33,)
+Epoch: 30 , train loss: 0.00010068540372003554 , test loss: 2.4032583499844494e-05 , accuracy: 96.25
+(30,)
+Epoch: 31 , train loss: 5.508688226314007e-05 , test loss: 4.706046841097461e-05 , accuracy: 92.5
+(34,)
+Epoch: 32 , train loss: 5.7244495649939606e-05 , test loss: 0.00016254064602878594 , accuracy: 93.75
+(34,)
+Epoch: 33 , train loss: 6.939635969345659e-05 , test loss: 0.00015979331687157483 , accuracy: 91.5
+(32,)
+Epoch: 34 , train loss: 9.673763169558925e-05 , test loss: 0.0004737387419206129 , accuracy: 82.0
+(34,)
+Epoch: 35 , train loss: 0.0001065488190539554 , test loss: 5.484439954070053e-05 , accuracy: 90.0
+(32,)
+Epoch: 36 , train loss: 4.813247925454789e-05 , test loss: 3.291211341159283e-05 , accuracy: 92.5
+(34,)
+Epoch: 37 , train loss: 6.372132575279466e-05 , test loss: 7.089690997149844e-05 , accuracy: 91.75
+(34,)
+Epoch: 38 , train loss: 9.93428734813051e-05 , test loss: 0.0001413397917096181 , accuracy: 88.5
+(34,)
+Epoch: 39 , train loss: 5.784337202605627e-05 , test loss: 1.6052636261565388e-05 , accuracy: 95.5
+(34,)
+Epoch: 40 , train loss: 4.716145348282907e-05 , test loss: 2.3255383710935052e-05 , accuracy: 97.5
+(33,)
+Epoch: 41 , train loss: tensor(0.0312, device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 42 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 43 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 44 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 45 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 46 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 47 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 48 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 49 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+(33,)
+Epoch: 50 , train loss: tensor(0., device='cuda:0') , test loss: 1.282633039802313 , accuracy: 0.75
+
+After epoch = 40, we start using quasi-newton optimization. We see that the grad norm does drop to very small values and 
+eventually drops to 0. I could not observe difference in minimal ratio. Maybe it is being computed wrong. I think the 
+observation that we expect is that the minimal ratio must increase with decrease in grad norm, because if it is more positive
+definite, that means it has found the curvature.
