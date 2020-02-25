@@ -1,0 +1,42 @@
+(pytorch_env) [nvishwa@node0155 generalization]$ python model1.py 
+Epoch: 1 , train loss: 1.5929317205349605 , test loss: 1.5206924226403236 , accuracy: 94.27
+Epoch: 2 , train loss: 1.5129526867310206 , test loss: 1.5009186825752259 , accuracy: 95.82000000000001
+Epoch: 3 , train loss: 1.500432402340571 , test loss: 1.4964532516002655 , accuracy: 96.34
+Epoch: 4 , train loss: 1.4929404344081878 , test loss: 1.4904225621581078 , accuracy: 96.92
+Epoch: 5 , train loss: 1.4881431395451228 , test loss: 1.4852977514982224 , accuracy: 97.61
+Epoch: 6 , train loss: 1.4847361638625463 , test loss: 1.4867234784603118 , accuracy: 97.57000000000001
+Epoch: 7 , train loss: 1.4825122395356496 , test loss: 1.4849294760704042 , accuracy: 97.72999999999999
+Epoch: 8 , train loss: 1.4807469553311665 , test loss: 1.4845259386062621 , accuracy: 97.75
+Epoch: 9 , train loss: 1.4789026912768681 , test loss: 1.4843906547546386 , accuracy: 97.74000000000001
+Epoch: 10 , train loss: 1.4779624614636104 , test loss: 1.4823610312581061 , accuracy: 98.09
+
+
+
+(pytorch_env) [nvishwa@node0155 generalization]$ python model2.py 
+Epoch: 1 , train loss: 1.5180744190216064 , test loss: 1.4955643515229224 , accuracy: 96.59
+Epoch: 2 , train loss: 1.4832103788693747 , test loss: 1.4822900599002837 , accuracy: 97.99
+Epoch: 3 , train loss: 1.477631064335505 , test loss: 1.4787669194102286 , accuracy: 98.25
+Epoch: 4 , train loss: 1.4752763826688131 , test loss: 1.4829258648872377 , accuracy: 97.66
+Epoch: 5 , train loss: 1.4739202558835347 , test loss: 1.4791444172501564 , accuracy: 98.67
+Epoch: 6 , train loss: 1.4732147212982178 , test loss: 1.4807191403627395 , accuracy: 97.92999999999999
+Epoch: 7 , train loss: 1.472490427128474 , test loss: 1.4749356742143631 , accuracy: 98.77
+Epoch: 8 , train loss: 1.4714479982614517 , test loss: 1.4782468201041221 , accuracy: 98.86
+Epoch: 9 , train loss: 1.471299618156751 , test loss: 1.4754032789707183 , accuracy: 98.72
+Epoch: 10 , train loss: 1.470753820904096 , test loss: 1.4736363027453423 , accuracy: 98.83
+
+
+
+(pytorch_env) [nvishwa@node0155 generalization]$ python model3.py 
+Epoch: 1 , train loss: 1.5124918791135151 , test loss: 1.4873635174274444 , accuracy: 96.98
+Epoch: 2 , train loss: 1.4872027608076732 , test loss: 1.483841383111477 , accuracy: 97.82
+Epoch: 3 , train loss: 1.4841187174956003 , test loss: 1.4884261298060417 , accuracy: 96.93
+Epoch: 4 , train loss: 1.4822487711111705 , test loss: 1.4790220806479455 , accuracy: 98.19
+Epoch: 5 , train loss: 1.4816204030036926 , test loss: 1.4815819619059563 , accuracy: 97.17
+Epoch: 6 , train loss: 1.4814868535598118 , test loss: 1.4796454023122787 , accuracy: 97.86
+Epoch: 7 , train loss: 1.4810432909647624 , test loss: 1.4848521853804588 , accuracy: 97.8
+Epoch: 8 , train loss: 1.4800761259635289 , test loss: 1.478967925632 , accuracy: 97.61999999999999
+Epoch: 9 , train loss: 1.4798232292016347 , test loss: 1.4819685559391975 , accuracy: 98.09
+Epoch: 10 , train loss: 1.4793498537778855 , test loss: 1.487495598936081 , accuracy: 98.13
+
+More parameters will overfit on the training set. For model 3 (3 > 2 > 1 in terms of no. of parameters), it can be 
+observed that the training loss keeps reducing, but the test loss starts to increase after some epochs. 
