@@ -1,0 +1,12 @@
+Epoch: 1 , train loss: 1.6012636276483536 , test loss: 2.3864795457124712 , accuracy: 9.84
+Epoch: 2 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 3 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 4 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 5 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 6 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 7 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 8 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 9 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+Epoch: 10 , train loss: 1.5979795455932617 , test loss: 2.3864795455932617 , accuracy: 9.8
+
+The model does not fit on random labels.
